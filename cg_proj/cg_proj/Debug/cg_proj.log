@@ -1,0 +1,56 @@
+﻿  main.cpp
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(6,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(6,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(6,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(37,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(39,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(39,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(42,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(42,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(51,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(52,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(53,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(54,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(55,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(80,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(86,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(90,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(95,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(140,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(150,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(174,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(198,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(198,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(198,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(209,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(336,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(339,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(341,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(345,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(367,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(368,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(369,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(370,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(371,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(522,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(522,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(522,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(564,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(565,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(595,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(607,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(608,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(609,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(612,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(613,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(614,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(617,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(618,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(619,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(627,21): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(628,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(629,21): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(686,16): warning C4305: '=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(686,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(686,34): warning C4305: '=': truncation from 'double' to 'float'
+  cg_proj.vcxproj -> D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\Debug\cg_proj.exe
