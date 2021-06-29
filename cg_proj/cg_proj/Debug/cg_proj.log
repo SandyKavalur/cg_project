@@ -53,4 +53,5 @@ D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(629,21): warning 
 D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(686,16): warning C4305: '=': truncation from 'double' to 'float'
 D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(686,25): warning C4305: '=': truncation from 'double' to 'float'
 D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\cg_proj\main.cpp(686,34): warning C4305: '=': truncation from 'double' to 'float'
+  LINK : D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\Debug\cg_proj.exe not found or not built by the last incremental link; performing full link
   cg_proj.vcxproj -> D:\Ayanokouji\0pactice\c++\cg_project\cg_proj\Debug\cg_proj.exe
